@@ -1,0 +1,5 @@
+*.DS_Store
+*.tar.xz
+*.tar.gz
+ffmpeg-5.1.2/build
+ffmpeg-5.1.2/tags
