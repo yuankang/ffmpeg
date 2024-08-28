@@ -1,9 +1,13 @@
 .DS_Store
+ffmpeg-4.4.4/
 ffmpeg-4.4.4.tar.xz
 ffmpeg-5.1.2.tar.xz
 ffmpeg-5.1.2/build/
 ffmpeg-5.1.2/tags
 ffmpeg-5.1.4.tar.xz
-ffmpeg-6.1.tar.xz
+ffmpeg-6.1.1/
+ffmpeg-6.1.1.tar.xz
+ffmpeg-7.0.tar.xz
+ffmpeg-7.0/
 configure.help
 ffmpeg.help
